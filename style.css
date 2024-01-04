@@ -103,4 +103,6 @@ img{
 .attribution {
     font-size: 5px;
 }
+    @media(max-width:320px){
+    }
 }
